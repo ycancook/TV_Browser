@@ -1,5 +1,5 @@
 # TV_Browser
-TV Browser but it can run on phones.
+## TV Browser but it can run on phones.
 ![Scheme](https://github.com/ycancook/TV_Browser/blob/main/Screenshot_2026-06-28-08-43-43-185_com.smarttv.chomtvbrowser.jpg)
 ![Scheme](https://github.com/ycancook/TV_Browser/blob/main/Screenshot_2026-06-28-08-43-51-273_com.smarttv.chomtvbrowser.jpg)
 ![Scheme](https://github.com/ycancook/TV_Browser/blob/main/Screenshot_2026-06-28-08-43-59-358_com.smarttv.chomtvbrowser.jpg)
