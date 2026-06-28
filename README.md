@@ -1,5 +1,14 @@
 # TV_Browser
-## TV Browser nhưng hoạt động tốt trên điện thoại di động. Ứng dụng dựa vào nền webview có sẵn của android nên vô cùng nhẹ, có tích hợp chặn quảng cáo tùy biến nhẹ, phát video Media3 Exoplayer, Hybrid Cache.... Đã thử nghiệm chạy ổn định trên các điện thoại: Samsung A8 2018 dùng Android Mobile 9, Samsung S23 Ultra OneUI 8.5, Xiaomi 17 HyperOS 3...Chạy ổn trên TV Box Vontax X5 Android TV 14 x64, X96 M300 Android TV 14 x86, Onn. Box 4K Androitv 12.... Tích hợp đa ngôn ngữ: Anh, Việt, Nga, Trung
+
+## TV Browser nhưng hoạt động rất tốt trên điện thoại di động. Ứng dụng dựa trên nền WebView có sẵn của Android nên cực kỳ nhẹ. Tích hợp chặn quảng cáo tùy chỉnh nhẹ, phát video Media3 ExoPlayer, Hybrid Cache và nhiều tính năng khác.Đã thử nghiệm chạy ổn định trên các điện thoại:Samsung A8 2018 (Android 9)
+Samsung S23 Ultra (One UI 8.5)
+Xiaomi 17 (HyperOS 3)
+
+Chạy tốt trên TV Box:Vontax X5 Android TV 14 (x64)
+X96 M300 Android TV 14 (x86)
+Onn. Box 4K Android TV 12
+
+Hỗ trợ đa ngôn ngữ: Tiếng Anh, Tiếng Việt, Tiếng Nga, Tiếng Trung.
 
 ## TV Browser but works great on mobile phones. The app is based on Android's built-in WebView, making it extremely lightweight. It features customizable lightweight ad blocking, Media3 ExoPlayer video playback, Hybrid Cache, and more.  Tested and runs stably on:
 • Samsung A8 2018 (Android 9)
