@@ -88,6 +88,16 @@ TV Browser，但在手机上运行良好。应用基于 Android 自带的 WebVie
 
 ---
 
+## ❤️ Donate / Ủng hộ /  Поддержать / 捐赠
+If you find this app useful and want to support its development, you can donate via:
+Nếu bạn thấy ứng dụng hữu ích và muốn hỗ trợ phát triển, bạn có thể donate cho tôi qua:
+Если приложение вам полезно и вы хотите поддержать разработку, вы можете пожертвовать:
+如果您觉得这个应用对您有帮助，并想支持开发者，可以通过以下方式捐赠：
+![Screenshot 9](https://github.com/ycancook/TV_Browser/blob/main/OKX_1780318902779.jpg)
+![Screenshot 9](https://github.com/ycancook/TV_Browser/blob/main/OKX_1780318916856.jpg)
+
+---
+
 ## 📸 Screenshots
 
 ![Screenshot 1](https://github.com/ycancook/TV_Browser/blob/main/Screenshot_2026-06-28-08-43-43-185_com.smarttv.chomtvbrowser.jpg)
